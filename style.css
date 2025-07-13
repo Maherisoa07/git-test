@@ -1,0 +1,12 @@
+/* body {
+    background-color: rgb(43, 103, 133);
+} */
+
+table {
+    /* background-color: rgb(43, 103, 133); */
+    border-collapse: collapse;
+    margin-left: 500px;
+    margin-top: 250px;
+    border-color: black;
+}
+
